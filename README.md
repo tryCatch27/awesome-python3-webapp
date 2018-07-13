@@ -1,6 +1,5 @@
 # awesome-python3-webapp
 Python  project for practice.<br>
-<marquee>人生苦短，我学Python!</marquee><br>
 <br>
 #//start<br>
 来源：`廖雪峰`老师的Python教程<br>
@@ -26,3 +25,7 @@ Python  project for practice.<br>
 　　|<br>
 　　+- LICENSE               <-- 代码LICENSE<br>
 #//end<br>
+<br>
+<br>
+-----------------<br>
+人生苦短，我学Python!
